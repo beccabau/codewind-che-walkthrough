@@ -23,7 +23,7 @@ This quicklab requires the following configuration:
 
 ### Installing Che with chectl
 
-The fastest way to install Eclipse Che for Codewind is to use the chectl CLI. To install the chectl CLI tool, see [Installing the chectl management tool](https://www.eclipse.org/che/docs/che-7/installing-the-chectl-management-tool/).
+The fastest way to install Eclipse Che for Codewind is to use the chectl CLI. To install the chectl CLI tool, see [Installing the chectl management tool](https://www.eclipse.org/che/docs/che-7/installing-the-chectl-management-tool/). Make sure you are using the latest version.
 
 After you install chectl, download the [codewind-checluster.yaml](https://raw.githubusercontent.com/eclipse/codewind-che-plugin/0.11.0/setup/install_che/che-operator/codewind-checluster.yaml) file.
 
